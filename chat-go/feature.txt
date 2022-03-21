@@ -1,0 +1,16 @@
+/v1/sendMessage
+/v1/parseHttpUrl
+
+
+創房間
+轉移房間
+加入房間
+一對一聊天
+
+加好友
+邀請好友
+圖片上傳
+notify
+回覆
+按讚
+emoji
