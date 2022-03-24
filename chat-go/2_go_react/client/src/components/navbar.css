@@ -1,0 +1,11 @@
+.navbar{
+    display:flex;
+    justify-content: center;
+}
+.navbar div{
+    margin-left: 20px;
+}
+
+*{
+    text-decoration: none;
+}
